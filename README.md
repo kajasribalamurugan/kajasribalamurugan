@@ -1,514 +1,369 @@
-<!-- ========================================= -->
-<!--        PREMIUM GITHUB PROFILE README      -->
-<!--               PART 1                      -->
-<!-- ========================================= -->
+<div align="center">
 
-<h1 align="center">
-Hi 👋, I'm <span style="color:#4F8EF7;">Kajasri B</span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=280&section=header&text=Kajasri%20Balamurugan&fontSize=52&fontColor=00F5D4&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20CSE%20Undergrad&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<h3 align="center">
-Computer Science Engineering Student • Java Full Stack Developer • AI Enthusiast
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;Java+Full+Stack+Developer;Building+AI-Powered+Applications;Passionate+Problem+Solver;Open+Source+Learner;Always+Learning+Something+New+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=kajasribalamurugan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/kajasribalamurugan?logo=github&style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/kajasribalamurugan?affiliations=OWNER&style=for-the-badge"/>
-</p>
-
----
-
-# 💫 About Me
-
-```java
-public class Kajasri {
-
-    String role = "Computer Science Engineering Student";
-
-    String specialization = "Java Full Stack Development";
-
-    String interests[] = {
-        "Artificial Intelligence",
-        "Web Development",
-        "Open Source",
-        "Software Engineering"
-    };
-
-    String currentlyLearning[] = {
-        "Java",
-        "Spring Boot",
-        "React",
-        "MySQL",
-        "Data Structures & Algorithms"
-    };
-
-    String goal = "Build scalable software that creates real-world impact.";
-}
-```
-
----
-
-## 🚀 Professional Summary
-
-🎓 Second-Year Computer Science Engineering Student with a strong passion for software engineering and modern web technologies.
-
-💻 Currently specializing in **Java Full Stack Development** while strengthening my foundation in Data Structures and Algorithms.
-
-🤖 Interested in Artificial Intelligence, Web Development, and building practical applications that solve real-world problems.
-
-🏆 Active participant in hackathons and technical events, always seeking opportunities to learn, collaborate, and innovate.
-
-🌱 Committed to continuous learning, clean coding practices, and delivering high-quality software solutions.
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:kajasribalamurugan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kajasri-cse">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
 <a href="https://github.com/kajasribalamurugan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=900&color=00F5D4&center=true&vCenter=true&random=false&width=680&height=60&lines=Second+Year+CSE+Student;Aspiring+Java+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+MySQL;Open+Source+Contributor;Building+Real-World+Software+Solutions" alt="Typing SVG" />
 </a>
 
-</p>
+<br/><br/>
 
----
+<img src="https://img.shields.io/badge/STATUS-Actively%20Building-00F5D4?style=for-the-badge&labelColor=0d0d0d&color=0d1b1e"/>
+<img src="https://img.shields.io/badge/FOCUS-Java%20Full%20Stack-8A2BE2?style=for-the-badge&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-Internships-FF4FD8?style=for-the-badge&labelColor=0d0d0d"/>
 
-# 🛠 Tech Stack
+</div>
 
-## 👨‍💻 Programming Languages
+<br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:8A2BE2&height=3&width=100%"/>
 
----
+<br/>
 
-## 🌐 Frontend Development
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist%20Dark%20Skin%20Tone.png" width="35"/> Professional Introduction
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
-</p>
-
----
-
-## ⚙ Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
-</p>
-
----
-
-## 🗄 Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
----
-
-## 🛠 Developer Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
-
----
-
-## 📚 Currently Learning
-
-- 🌱 Spring Boot
-- ⚛ React.js
-- ☕ Advanced Java
-- 🛢 MySQL Optimization
-- 📊 Data Structures & Algorithms
-- 🔗 REST API Development
-
----
-
-# 🎯 2026 Objectives
-
-✅ Master Java Full Stack Development
-
-✅ Build 10+ Production-Ready Projects
-
-✅ Contribute to Open Source
-
-✅ Strengthen Problem Solving Skills
-
-✅ Secure a Software Development Internship
-
-✅ Continue Learning Emerging Technologies
-
----
-
-> **"Great software is built through curiosity, consistency, and continuous learning."**
-
----
-<!-- ========================================= -->
-<!--         PREMIUM GITHUB PROFILE README     -->
-<!--                PART 2                     -->
-<!-- ========================================= -->
-
-# 🚀 Featured Projects
-
+<div align="center">
 <table>
 <tr>
-<td width="50%">
+<td>
 
-### 🤖 Fake Product Review Detection System
+I'm **Kajasri B**, a second-year Computer Science Engineering student with a clear goal to becoming a proficient **Java Full Stack Developer**. I enjoy translating real-world problems into functional, well-engineered software and I'm passionate about continuous learning, exploring new technologies, and improving my programming skills through hands-on projects and problem-solving.
 
-📝 AI-powered system to identify fake online product reviews using Machine Learning techniques.
+Beyond the classroom, I actively contribute my time as a Tele Verification Volunteer at the Anandam Youth Foundation, where I assist in the student verification process. This experience has helped me improve my communication and teamwork skills.
 
-**Tech Stack**
-
-Python • Machine Learning • Pandas • Scikit-learn
-
-⭐ Highlights
-
-- Detects fraudulent reviews
-- Data preprocessing pipeline
-- Classification model
-- Performance evaluation
-
-</td>
-
-<td width="50%">
-
-### 👷 Smart Worker Assistance Platform
-
-📝 AI-powered platform that helps MSME workers with multilingual training, SOP guidance, and progress tracking.
-
-**Tech Stack**
-
-Java • HTML • CSS • JavaScript • MySQL
-
-⭐ Highlights
-
-- Worker Dashboard
-- Customer Dashboard
-- AI Learning Support
-- Skill Tracking
-
-</td>
 </tr>
+</table>
+</div>
 
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5D4&height=3&width=100%"/>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="30"/> About Me
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌾 AgriConnect
+```yaml
+profile:
+  name: "Kajasri B"
 
-Java console application connecting farmers and buyers through a simple marketplace.
+  role: "Second-Year Computer Science Engineering Student"
 
-**Tech Stack**
+  aspiring_role: "Java Full Stack Developer"
 
-Java • JDBC • MySQL
+  learning_focus:
+    - Java
+    - Spring Boot
+    - MySQL
+    - React
+    - Data Structures & Algorithms
 
-⭐ Highlights
+  interests:
+    - Artificial Intelligence
+    - Web Development
+    - Full Stack Development
 
-- Farmer Management
-- Buyer Management
-- CRUD Operations
-- Market Price Module
+  volunteer_experience:
+     organization: "Anandam Youth Foundation"
+    role: "Tele Verification Volunteer"
+```
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+```yaml
+mindset:
+  belief: "Learn consistently, improve continuously."
 
-### 🌐 Personal Portfolio Website
+  approach:
+    - Build practical projects
+    - Understand concepts deeply
+    - Keep learning and improving
 
-Modern responsive portfolio showcasing projects, skills, achievements, and contact information.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-⭐ Highlights
-
-- Responsive UI
-- Smooth Animations
-- Clean Design
-- Contact Form
+  goals_2026:
+    - Master Java Full Stack Development
+    - Strengthen DSA skills
+    - Build impactful projects
+```
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-# 📊 GitHub Statistics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:8A2BE2&height=3&width=100%"/>
 
-<p align="center">
+<br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kajasribalamurugan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30"/> Tech Stack
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kajasribalamurugan&theme=tokyonight&hide_border=true"/>
+<div align="center">
+    
+## 🛠️ Technologies I'm Learning
 
+<p align="left">
+    
+<img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,spring,react,git,github,vscode" />
+    
 </p>
 
----
+> *Currently building my foundation through coursework, personal projects, and continuous practice.*
 
-# 📈 Most Used Languages
+</div>
 
-<p align="center">
+<br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajasribalamurugan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5D4&height=3&width=100%"/>
 
-</p>
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:8A2BE2&height=3&width=100%"/>
 
-# 🏆 GitHub Trophy Showcase
+<br/>
 
-<p align="center">
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30"/> GitHub Statistics
 
-<img src="https://github-profile-trophy.vercel.app/?username=kajasribalamurugan&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<div align="center">
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=kajasribalamurugan&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00F5D4&icon_color=8A2BE2&text_color=c9d1d9&ring_color=00F5D4" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kajasri B&theme=dark&hide_border=true&background=0d0d0d&ring=00F5D4&fire=FF4FD8&currStreakLabel=00F5D4&sideLabels=c9d1d9&dates=c9d1d9" width="49%"/>
 
----
+<br/>
 
-# 📉 Contribution Graph
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajasribalamurugan&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00F5D4&text_color=c9d1d9&langs_count=8" width="49%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kajasribalamurugan&theme=darkhub&no-frame=true&no-bg=true&row=2&column=3&margin-w=8&margin-h=8" width="49%"/>
 
-<p align="center">
+</div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kajasribalamurugan&theme=tokyo-night&hide_border=true"/>
+<br/>
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5D4&height=3&width=100%"/>
 
----
+<br/>
 
-# 💻 Coding Profiles
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" width="30"/> Contribution Graph
 
-<p align="center">
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kajasribalamurugan&theme=react-dark&bg_color=0d0d0d&color=00F5D4&line=8A2BE2&point=FF4FD8&hide_border=true&area=true" width="100%"/>
+</div>
 
-<a href="https://github.com/kajasribalamurugan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30"/> Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/kajasribalamurugan/kajasribalamurugan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>Powered by <code>Platane/snk</code> — generated automatically via GitHub Actions on this profile repository</sub>
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:8A2BE2&height=3&width=100%"/>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="30"/> Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/kajasribalamurugan">
+<img src="https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+<a href="https://www.hackerrank.com/kajasri248">
+<img src="https://img.shields.io/badge/HackerRank-0d0d0d?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+</a>
+<a href="https://www.codechef.com/users/kajasri">
+<img src="https://img.shields.io/badge/CodeChef-0d0d0d?style=for-the-badge&logo=codechef&logoColor=5B4638"/>
 </a>
 
-<!-- Replace with your usernames -->
+<br/><br/>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<img src="https://leetcode-stats-two-blush.vercel.app/api?username=kajasribalamurugan&theme=dark&background=0D0D0D&border=00F5D4&text_color=c9d1d9" width="70%"/>
 
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+<br/>
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5D4&height=3&width=100%"/>
 
----
+<br/>
 
-# 📌 Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="30"/> Certifications
 
-```text
-☕ Java Full Stack Development
-🌱 Spring Boot
-⚛ React
-🗄 MySQL
-📚 Data Structures & Algorithms
-🤖 Artificial Intelligence
-☁ REST APIs
-🔧 Git & GitHub
-```
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Java%20Programming-0d0d0d?style=for-the-badge&logo=coursera&logoColor=00F5D4"/>
+<img src="https://img.shields.io/badge/Web%20Development-0d0d0d?style=for-the-badge&logo=freecodecamp&logoColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=FF4FD8"/>
+<img src="https://img.shields.io/badge/SQL%20Fundamentals-0d0d0d?style=for-the-badge&logo=mysql&logoColor=00F5D4"/>
 
-# 📅 2026 Progress
+<br/>
+<sub>Add certificate links / issuing bodies here as they are earned</sub>
 
-```
-Java Full Stack        ████████░░ 80%
+</div>
 
-Spring Boot            █████░░░░░ 50%
+<br/>
 
-React                  ████░░░░░░ 40%
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:8A2BE2&height=3&width=100%"/>
 
-MySQL                  ███████░░░ 70%
+<br/>
 
-DSA                    ██████░░░░ 60%
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Handshake.png" width="30"/> Volunteer Experience
 
-AI & Machine Learning  █████░░░░░ 50%
+<div align="center">
+<table width="100%">
+<tr>
+<td>
 
-Open Source            ███░░░░░░░ 30%
-```
-
----
-
-## 💡 Developer Mindset
-
-> *"I believe every project is an opportunity to learn, improve, and create software that makes a meaningful impact."*
-
----
-<!-- ========================================= -->
-<!--         PREMIUM GITHUB PROFILE README     -->
-<!--                PART 3                     -->
-<!-- ========================================= -->
-
-# 🏅 Certifications
-
-- 🎓 NPTEL Certification *(Add Certificate Link)*
-- ☕ Java Full Stack Development *(In Progress)*
-- 🌐 Web Development *(In Progress)*
-- 🤖 Artificial Intelligence *(Learning Path)*
-
----
-
-# 🤝 Leadership & Volunteering
-
-## ❤️ Anandam Youth Foundation
-
+### Anandam Youth Foundation
 **Tele Verification Volunteer**
 
-✔ Assisted in scholarship verification for students
+Contributing to community welfare initiatives by conducting tele-verification outreach, supporting the foundation's mission to uplift and empower youth through structured, values-driven programs.
 
-✔ Communicated with applicants and verified information
+<img src="https://img.shields.io/badge/Community%20Service-0d0d0d?style=flat-square&color=00F5D4"/>
+<img src="https://img.shields.io/badge/Communication-0d0d0d?style=flat-square&color=8A2BE2"/>
+<img src="https://img.shields.io/badge/Social%20Impact-0d0d0d?style=flat-square&color=FF4FD8"/>
 
-✔ Strengthened communication, teamwork, and problem-solving skills
+</td>
+</tr>
+</table>
+</div>
 
-✔ Contributed towards supporting students through educational initiatives
+<br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5D4&height=3&width=100%"/>
 
-# 🏆 Achievements
+<br/>
 
-🏅 Hackathon Participant
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" width="30"/> Achievements
 
-💻 Built Multiple Real-World Projects
+<div align="center">
+<table width="100%">
+<tr>
+<td width="33%" align="center">
 
-📚 Continuous Learner
+**4+ Projects**
+<br/>
+<sub>Built & deployed across ML, Full Stack, and Web domains</sub>
 
-🚀 Passionate About Software Development
+</td>
+<td width="33%" align="center">
 
-🌱 Exploring AI & Full Stack Technologies
+**Active Volunteer**
+<br/>
+<sub>Anandam Youth Foundation</sub>
 
----
+</td>
+<td width="33%" align="center">
 
-# 🎯 Career Vision
+**Consistent Learner**
+<br/>
+<sub>Continuously upskilling in Full Stack development</sub>
 
-```text
-✓ Become an Expert Java Full Stack Developer
+</td>
+</tr>
+</table>
+</div>
 
-✓ Build AI-Powered Applications
+<br/>
 
-✓ Contribute to Open Source
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="30"/> Current Learning
 
-✓ Publish High-Quality Technical Projects
+<div align="center">
 
-✓ Secure a Software Development Internship
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/DSA-00F5D4?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0d0d"/>
 
-✓ Grow into a Skilled Software Engineer
-```
+</div>
 
----
+<br/>
 
-# 📚 Currently Exploring
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:8A2BE2&height=3&width=100%"/>
 
-- ☕ Advanced Java
-- 🌱 Spring Boot
-- ⚛ React.js
-- 🛢 MySQL
-- 📡 REST APIs
-- 📦 Git & GitHub
-- 🤖 Artificial Intelligence
-- 🧩 Data Structures & Algorithms
+<br/>
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" width="30"/> 2026 Goals
 
-# 🌟 Core Values
+<div align="center">
+<table width="100%">
+<tr>
+<td width="25%" align="center">Master the Java Full Stack ecosystem end-to-end</td>
+<td width="25%" align="center">Strengthen DSA and competitive programming fundamentals</td>
+<td width="25%" align="center">Contribute meaningfully to open-source projects</td>
+<td width="25%" align="center">Secure a Java Full Stack Developer internship</td>
+</tr>
+</table>
+</div>
 
-✨ Continuous Learning
+<br/>
 
-✨ Clean Code
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Smiling%20Eyes.png" width="30"/> Fun Facts
 
-✨ Teamwork
+<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="center">Believes clean code is a form of respect for future developers</td>
+<td width="50%" align="center">Enjoys debugging almost as much as building new features</td>
+</tr>
+<tr>
+<td width="50%" align="center">Curious about how AI will reshape everyday software</td>
+<td width="50%" align="center">Finds satisfaction in turning ideas into working prototypes</td>
+</tr>
+</table>
+</div>
 
-✨ Innovation
+<br/>
 
-✨ Problem Solving
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F5D4&height=3&width=100%"/>
 
-✨ Professional Growth
+<br/>
 
----
+<div align="center">
 
-# 📈 GitHub Contribution Snake
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" width="30"/> Inspirational Quote
 
-> After creating your GitHub profile repository, enable GitHub Actions and add this image.
+<h3><i>"Code is the closest thing we have to magic — the only limit is how far you're willing to learn."</i></h3>
 
-```markdown
-<p align="center">
-<img src="https://raw.githubusercontent.com/kajasribalamurugan/kajasribalamurugan/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</p>
-```
+</div>
 
----
+<br/>
 
-# 💼 Open to Opportunities
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5D4,100:8A2BE2&height=3&width=100%"/>
 
-✔ Software Development Internships
+<br/>
 
-✔ Java Development
+<div align="center">
 
-✔ Full Stack Development
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="30"/> Let's Connect
 
-✔ Open Source Collaboration
-
-✔ Hackathons
-
-✔ Technical Communities
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
+<a href="https://linkedin.com/in/kajasri-cse">
+<img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 <a href="mailto:kajasribalamurugan@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://github.com/kajasribalamurugan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/kajasri-cse">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=kajasribalamurugan&label=Profile%20Views&color=00F5D4&style=for-the-badge&labelColor=0d0d0d"/>
 
-</p>
+</div>
 
----
+<br/>
 
-# 💬 Favorite Quote
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=00F5D4&animation=fadeIn"/>
 
-> **"Success is built one line of code at a time."**
-
----
-
-<h3 align="center">
-⭐ Thanks for visiting my GitHub Profile! ⭐
-</h3>
-
-<p align="center">
-If you find my projects interesting, consider ⭐ starring the repositories and following my journey.
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+<div align="center">
+<sub>Designed & built by Kajasri B · Last updated 2026</sub>
+</div>
