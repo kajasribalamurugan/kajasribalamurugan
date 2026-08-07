@@ -276,9 +276,9 @@ Future Learning
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kajasribalamurugan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kajasribalamurugan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=kajasribalamurugan&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kajasribalamurugan&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -286,7 +286,7 @@ Future Learning
 
 <div align="center">
 
-<img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajasribalamurugan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajasribalamurugan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -304,30 +304,6 @@ Future Learning
 <!-- ========================================================= -->
 <!--             COMMUNITY • TROPHIES • FOOTER                 -->
 <!-- ========================================================= -->
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kajasribalamurugan/kajasribalamurugan/output/github-contribution-grid-snake-dark.svg">
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kajasribalamurugan/kajasribalamurugan/output/github-contribution-grid-snake.svg">
-
-<img
-alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/kajasribalamurugan/kajasribalamurugan/output/github-contribution-grid-snake.svg">
-
-</picture>
-
-</div>
 
 ---
 
