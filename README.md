@@ -272,9 +272,7 @@ Future Learning
 • Cloud Computing
 ```
 
----
-
-# GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -307,14 +305,6 @@ Future Learning
 <!--             COMMUNITY • TROPHIES • FOOTER                 -->
 <!-- ========================================================= -->
 
-# GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kajasribalamurugan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-
-</div>
-
 ---
 
 # Contribution Snake
@@ -325,15 +315,15 @@ Future Learning
 
 <source
 media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kajasribalamurugan/YOUR_REPOSITORY_NAME/output/github-contribution-grid-snake-dark.svg">
+srcset="https://raw.githubusercontent.com/kajasribalamurugan/kajasribalamurugan/output/github-contribution-grid-snake-dark.svg">
 
 <source
 media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kajasribalamurugan/YOUR_REPOSITORY_NAME/output/github-contribution-grid-snake.svg">
+srcset="https://raw.githubusercontent.com/kajasribalamurugan/kajasribalamurugan/output/github-contribution-grid-snake.svg">
 
 <img
 alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/kajasribalamurugan/YOUR_REPOSITORY_NAME/output/github-contribution-grid-snake.svg">
+src="https://raw.githubusercontent.com/kajasribalamurugan/kajasribalamurugan/output/github-contribution-grid-snake.svg">
 
 </picture>
 
