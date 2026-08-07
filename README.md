@@ -270,35 +270,8 @@ Future Learning
 • Docker
 
 • Cloud Computing
+
 ```
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kajasribalamurugan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://streak-stats.demolab.com?user=kajasribalamurugan&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajasribalamurugan&layout=donut&theme=tokyonight&hide_border=true&langs_count=10" height="200"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kajasribalamurugan&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
 
 # GitHub Activity Graph
 
