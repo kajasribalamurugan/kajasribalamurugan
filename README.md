@@ -1,11 +1,11 @@
 <!-- ========================================================= -->
 <!--                     PREMIUM GITHUB PROFILE                -->
-<!--                    Developed for Kajasri B.              -->
+<!--                    Developed for Kajasri B                -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# Kajasri B.
+# Kajasri B
 
 ### Computer Science Engineering Student • Aspiring Java Full Stack Developer
 
@@ -29,14 +29,11 @@
 
 # About Me
 
-I am **Kajasri B.**, a second-year Computer Science Engineering student with a strong interest in software development, problem-solving, and continuous learning.
-
-I enjoy transforming ideas into practical applications while strengthening my skills through projects, hackathons, internships, and volunteer initiatives.
-
-Currently, I am focused on improving my knowledge of **Java**, **Web Development**, **Data Structures & Algorithms**, and modern software engineering practices.
-
-I believe that consistency, curiosity, and hands-on experience are the foundation of becoming a skilled software engineer.
-
+- I'm **Kajasri B**, a second-year Computer Science Engineering student with a strong interest in building software, problem-solving, and continuous learning.
+- I enjoy translating real-world problems into functional, well-engineered practical applications — strengthening my skills through projects, hackathons, internships, and volunteer initiatives.
+- Currently, I am focused on improving my knowledge of **Java**, **Web Development**, and modern software engineering practices.
+- I believe that consistency, curiosity, and hands-on experience are the foundation of becoming a skilled engineer.
+  
 ---
 
 # Quick Information
@@ -116,7 +113,6 @@ Open To         : Internships • Open Source • Hackathons
 # Areas of Interest
 
 - Java Application Development
-- Frontend Web Development
 - Artificial Intelligence
 - Full Stack Development
 - Software Engineering
@@ -177,12 +173,14 @@ Java Full Stack Development
 
 # Leadership & Volunteering
 
-## Anandham Youth Foundation
+### Anandham Youth Foundation
 
 **Student Volunteer**
 
-Contributed to community initiatives by supporting scholarship-related activities, student outreach, and tele-verification processes.
-
+- Contributed to the **2026 Student Selection Process**.
+- Assisted in scholarship applicant tele-verification and data verification.
+- Interacted with applicants to validate information and support the selection process.
+  
 ### Recognition
 
 🏆 **Emerging Leader Award**
@@ -191,25 +189,26 @@ Received the **Emerging Leader Award** from **Anandham Youth Foundation** in rec
 
 ---
 
-# Hackathons & Technical Events
+# 📜 Certifications
 
-### Hackathons
-
-- Participant — **Zomathon** (Organized by Zomato)
-- Participant — National-Level Hackathons (Online & Offline)
-
-### Technical Events
-
-- Paper Presentation Participant
-- Active participant in coding and innovation events
+- **NPTEL** — Fundamentals of Object-Oriented Programming (**Elite Certification**)
+- **CodeAlpha** — Frontend Development Internship Certification
 
 ---
 
-# Certifications
+# 🚀 Hackathons & Technical Events
 
-- NPTEL — Fundamentals of Object-Oriented Programming
-- CodeAlpha — Frontend Development Internship Certificate
+## Hackathon Participation
 
+- Participant — **MSME Hackathon** (Innovation Challenge)
+- Participant — **Zomathon** (Organized by Zomato)
+- Participant — National-Level Hackathons and Innovation Challenges
+
+## Technical Activities
+
+- Participated in Paper Presentations
+- Engaged in coding competitions and technical events
+- Explored real-world problem solving through innovation challenges
 ---
 
 # Featured Project
@@ -229,20 +228,6 @@ A Java-based learning project developed to understand software design principles
 **Repository**
 
 https://github.com/kajasribalamurugan/ngo
-
----
-
-# Upcoming Projects
-
-These are the projects I am currently planning and building as part of my learning journey.
-
-| Project | Status |
-|----------|--------|
-| Personal Portfolio Website | In Progress |
-| Fake Product Review Detection | Planned |
-| Smart Worker Assistance Platform | Planned |
-| Student Management System | Planned |
-| Weather Web Application | Planned |
 
 ---
 
@@ -318,18 +303,6 @@ Future Learning
 </p>
 
 ---
-
-# 2026 Goals
-
-- Build high-quality real-world software projects
-- Strengthen Java Full Stack Development skills
-- Improve problem-solving and DSA proficiency
-- Contribute to open-source projects
-- Secure a software development internship
-- Participate in Smart India Hackathon (SIH)
-- Maintain consistent GitHub contributions
-
----
 <!-- ========================================================= -->
 <!--             COMMUNITY • TROPHIES • FOOTER                 -->
 <!-- ========================================================= -->
@@ -371,17 +344,6 @@ src="https://raw.githubusercontent.com/kajasribalamurugan/YOUR_REPOSITORY_NAME/o
 # Development Philosophy
 
 > *"Great software is built through consistency, curiosity, and continuous improvement. Every project is an opportunity to learn, solve problems, and create meaningful impact."*
-
----
-
-# Current Focus
-
-- Building practical Java applications
-- Strengthening Data Structures & Algorithms
-- Learning Spring Boot and React
-- Exploring Artificial Intelligence concepts
-- Improving software engineering practices
-- Contributing consistently on GitHub
 
 ---
 
