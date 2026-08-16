@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Kajasri B
+## Kajasri B
 
 ### Computer Science Engineering Student • Aspiring Java Full Stack Developer
 
