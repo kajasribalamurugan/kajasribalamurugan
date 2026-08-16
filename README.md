@@ -189,14 +189,14 @@ Received the **Emerging Leader Award** from **Anandham Youth Foundation** in rec
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 - **NPTEL** — Fundamentals of Object-Oriented Programming (**Elite Certification**)
 - **CodeAlpha** — Frontend Development Internship Certification
 
 ---
 
-# 🚀 Hackathons & Technical Events
+# Hackathons & Technical Events
 
 ## Hackathon Participation
 
