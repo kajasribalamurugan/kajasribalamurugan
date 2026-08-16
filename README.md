@@ -39,7 +39,7 @@
 # Quick Information
 
 ```text
-Name            : Kajasri B.
+Name            : Kajasri B
 Education       : B.E. Computer Science Engineering
 Year            : Second Year
 Specialization  : Software Development
