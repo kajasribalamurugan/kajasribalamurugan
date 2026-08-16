@@ -30,7 +30,7 @@
 # About Me
 
 - I'm **Kajasri B**, a second-year Computer Science Engineering student with a strong interest in building software, problem-solving, and continuous learning.
-- I enjoy translating real-world problems into functional, well-engineered practical applications — strengthening my skills through projects, hackathons, internships, and volunteer initiatives.
+- I enjoy translating real-world problems into functional, well-engineered practical applications that strengthening my skills through projects, hackathons, internships, and volunteer initiatives.
 - Currently, I am focused on improving my knowledge of **Java**, **Web Development**, and modern software engineering practices.
 - I believe that consistency, curiosity, and hands-on experience are the foundation of becoming a skilled engineer.
   
