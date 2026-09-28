@@ -7,7 +7,7 @@
 
 ## Kajasri B
 
-### Computer Science Engineering Student • Aspiring Java Full Stack Developer
+### Computer Science Engineering Student • Aspiring Software Engineer 💻
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Software+That+Solves+Real+Problems;Learning+Java+Full+Stack+Development;Open+to+Internships+and+Collaboration;Always+Learning+Something+New" alt="Typing SVG" />
 
@@ -43,7 +43,7 @@ Name            : Kajasri B
 Education       : B.E. Computer Science Engineering
 Year            : Second Year
 Specialization  : Software Development
-Current Focus   : Java Full Stack Development
+Current Focus   : Full Stack Development
 Location        : Tamil Nadu, India
 Open To         : Internships • Open Source • Hackathons
 ```
