@@ -230,49 +230,6 @@ A Java-based learning project developed to understand software design principles
 https://github.com/kajasribalamurugan/ngo
 
 ---
-
-# Learning Roadmap
-
-```
-Completed
-──────────
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript
-
-✔ Core Java
-
-────────────────────────
-
-Currently Learning
-
-• Spring Boot
-
-• MySQL
-
-• React
-
-• Data Structures & Algorithms
-
-────────────────────────
-
-Future Learning
-
-• REST APIs
-
-• Hibernate
-
-• Microservices
-
-• Docker
-
-• Cloud Computing
-
-```
-
 # GitHub Activity Graph
 
 <p align="center">
